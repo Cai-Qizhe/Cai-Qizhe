@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cai-Qizhe
-- 👀 I’m interested in computer science 
-- 🌱 I’m currently learning how to hack 
-- 💞️ I’m looking to collaborate on game development
+- 👀 I’m interested in computer science electronic engineer etc.
+- 🌱 I’m currently learning how to hack, java etc
+- 💞️ I’m looking to collaborate on game development, interesting projects.
 - 📫 How to reach me ...
 
 <!---
